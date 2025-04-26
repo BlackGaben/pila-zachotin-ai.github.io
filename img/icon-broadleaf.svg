@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" stroke="#000" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- trunk -->
+  <rect x="28" y="36" width="8" height="16"/>
+  <!-- canopy made of lobed outline -->
+  <path d="M20 38
+           C12 32 12 22 20 18
+           C18 10 26 6 32 10
+           C38 6 46 10 44 18
+           C52 22 52 32 44 38
+           Z"/>
+</svg>

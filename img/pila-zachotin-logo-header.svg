@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" fill="none">
+  <style>
+    .word { font-family: 'Merriweather', serif; font-weight: 700; font-size: 60px; fill: #ffffff; }
+  </style>
+
+  <text x="0" y="64" class="word">Pila</text>
+  <text x="0" y="130" class="word">Zach</text>
+
+  <g transform="translate(183,100.0)">
+    <path d="M 38.00,0.00 L 30.62,4.85 L 36.14,11.74 L 27.62,14.07 L 30.74,22.34 L 21.92,21.92 L 22.34,30.74 L 14.07,27.62 L 11.74,36.14 L 4.85,30.62 L 0.00,38.00 L -4.85,30.62 L -11.74,36.14 L -14.07,27.62 L -22.34,30.74 L -21.92,21.92 L -30.74,22.34 L -27.62,14.07 L -36.14,11.74 L -30.62,4.85 L -38.00,0.00 L -30.62,-4.85 L -36.14,-11.74 L -27.62,-14.07 L -30.74,-22.34 L -21.92,-21.92 L -22.34,-30.74 L -14.07,-27.62 L -11.74,-36.14 L -4.85,-30.62 L -0.00,-38.00 L 4.85,-30.62 L 11.74,-36.14 L 14.07,-27.62 L 22.34,-30.74 L 21.92,-21.92 L 30.74,-22.34 L 27.62,-14.07 L 36.14,-11.74 L 30.62,-4.85 Z M 12 0 A 12 12 0 1 0 -12 0 A 12 12 0 1 0 12 0 Z" fill="#ffffff" fill-rule="evenodd"/>
+  </g>
+
+  <text x="226" y="130" class="word">tín</text>
+</svg>
