@@ -220,7 +220,8 @@ body { font-family: 'Kumbh Sans', sans-serif; }
   justify-content:center;
   text-align:center;
   color:#fff;
-  background:url('../img/hero-logs.png') center/cover no-repeat;
+  background: center/cover no-repeat;
+  background-image: url(img/hero-logs.png);
 }
 
 /* (overlay was removed so the log colours stay vivid) */
